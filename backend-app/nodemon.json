@@ -1,0 +1,7 @@
+{
+  "env": {
+    "DB_NAME": "node-rest-shop",
+    "MONGO_DB_USER": "rest-shop-usr",
+    "MONGO_DB_PWD": "LmGxOHOiWSoSMmsn"
+  }
+}
